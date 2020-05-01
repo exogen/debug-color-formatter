@@ -10,6 +10,8 @@ A `%c` formatter for [debug][] to unify rich text formatting on the server with
 
 ## Usage
 
+Test commit!
+
 ### Install
 
 Add to your project with your choice of package manager:
